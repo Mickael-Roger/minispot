@@ -1,0 +1,4 @@
+mpu6050-raspberrypi
+RPi.GPIO
+posix-ipc
+evdev
